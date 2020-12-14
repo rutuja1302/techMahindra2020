@@ -5,3 +5,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 3. Bitwise Operation - Given an integer, say N. You need to find the following.: The number of set bits (bits that are 1 in the bitwise representation) in N, The position of the least significant set bit, and The position of the most significant set bit. Print the output in a#b#c format where a,b,c are results from 3cases given.
 4. Remainder Mod 11 - Given a string (of maximum length 1000) representing a larger number. Output its remainder modulo 11.
 5. Caesar cipher - Given a ciphertext encrypted with Caeser cipher as input string find the corresponding plaintext and return the plaintext as output string.
+6. Closest Pair - Find the closest pair in a given array.

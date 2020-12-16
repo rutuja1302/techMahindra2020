@@ -7,3 +7,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 5. Caesar cipher - Given a ciphertext encrypted with Caeser cipher as input string find the corresponding plaintext and return the plaintext as output string.
 6. Closest Pair - Find the closest pair in a given array.
 7. Next Greater Number - Given a number 'N'(containing at most 10,000 digits), find the next greater number having the same digits.
+8. Number of Selective Arrangements - Given a number n, find total number of De-arrangements of a set of n elements such that no element appears in its original position

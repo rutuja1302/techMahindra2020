@@ -9,3 +9,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 7. Next Greater Number - Given a number 'N'(containing at most 10,000 digits), find the next greater number having the same digits.
 8. Number of Selective Arrangements - Given a number n, find total number of De-arrangements of a set of n elements such that no element appears in its original position
 9. Infix to Postfix - Write a program that takes input as a string containing an infix expression and returns the corresponding postfix expression.
+10. Postfix Expression to value - Write a program that takes as input a string containing a postfix expression and returns the evaluated value of that postfix expression

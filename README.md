@@ -13,3 +13,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 11. Moving Apples - Given N number of baskets of apples, each containing different amount of apples. Return the minimum number of apples that must be moved so that all baskets have the same number of apples.
 12. Longest Common Subsequence - Write a program which determines the length of the longest subsequence of 2 given strings.
 13. Longest Palindromic Subsequence - Write a program to detemine the length of the longest palindromic subsequence in a given string
+14. Minimum Penalty - Write a program which accepts array of length N and returns the sum of all the differences between two adjacent elements.

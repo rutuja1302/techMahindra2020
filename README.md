@@ -15,3 +15,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 13. Longest Palindromic Subsequence - Write a program to detemine the length of the longest palindromic subsequence in a given string
 14. Minimum Penalty - Write a program which accepts array of length N and returns the sum of all the differences between two adjacent elements.
 15. Geometric Progression - Given first two terms and a integer n of the Geometric Progression series, the task is to print the nth term of the series.
+16. Character Frequency Count - Given a string as an input, count the frequency of each letter and return a string with the format "character & count". For example: Input-"banana" Output-"a3b1n2"

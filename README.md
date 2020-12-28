@@ -16,3 +16,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 14. Minimum Penalty - Write a program which accepts array of length N and returns the sum of all the differences between two adjacent elements.
 15. Geometric Progression - Given first two terms and a integer n of the Geometric Progression series, the task is to print the nth term of the series.
 16. Character Frequency Count - Given a string as an input, count the frequency of each letter and return a string with the format "character & count". For example: Input-"banana" Output-"a3b1n2"
+17. Number of Decodings - Given a scheme of encoding(A=1,B=2..Z=26), find the number of possible decodings.

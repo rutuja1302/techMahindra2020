@@ -1,5 +1,5 @@
 # techMahindra2020
-All Programming section solutions asked in Tech Mahindra off campus drive 2020 held in Nov-Dec20
+## All Programming section solutions asked in Tech Mahindra off campus drive 2020 held in Nov-Dec20
 1. Maximum Sum -  Write a program that adds up the largest row sum and the largest column sum from an N-rows * M-column array of numbers.
 2. The Cuckoo Sequence - A Cuckoo Sequence is defined as shown: Cuckoo[1]=0 , Cuckoo[2]=1 , Cuckoo[n] = 1 * Cuckoo[n-1]+2 * Cuckoo[n-2]+3*1, for n>2. Given n (1<=n<=10^9) Calculate and return the nth term for the sequence.
 3. Bitwise Operation - Given an integer, say N. You need to find the following.: The number of set bits (bits that are 1 in the bitwise representation) in N, The position of the least significant set bit, and The position of the most significant set bit. Print the output in a#b#c format where a,b,c are results from 3cases given.
@@ -17,3 +17,4 @@ All Programming section solutions asked in Tech Mahindra off campus drive 2020 h
 15. Geometric Progression - Given first two terms and a integer n of the Geometric Progression series, the task is to print the nth term of the series.
 16. Character Frequency Count - Given a string as an input, count the frequency of each letter and return a string with the format "character & count". For example: Input-"banana" Output-"a3b1n2"
 17. Number of Decodings - Given a scheme of encoding(A=1,B=2..Z=26), find the number of possible decodings.
+18. Euler's Totient - Euler’s Totient function Φ (n) for an input n is the count of numbers in {1, 2, 3, …, n} that are relatively prime to n, i.e., the numbers whose GCD (Greatest Common Divisor) with n is 1.
